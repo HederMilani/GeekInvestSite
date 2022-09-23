@@ -1,8 +1,19 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    
   </nav>
+  <header class="navbar">
+    <section class="navbar-section">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
+    </section>
+    <section class="navbar-center">
+      
+    </section>
+    <section class="navbar-section">
+
+    </section>
+  </header>
   <router-view/>
 </template>
 
