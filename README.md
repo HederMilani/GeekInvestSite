@@ -9,3 +9,6 @@ Necessário realizar a instalaçãos dos seguintes componentes:
         > Vue
         > Quasar (vue add quasar)
         > Spectre CSS (yarn add spectre.css)
+        > Cors (npm install cors)
+        > Dotenv (npm install dotenv)
+        > Express (npm install xpress)

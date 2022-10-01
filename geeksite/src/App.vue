@@ -5,7 +5,8 @@
   <header class="navbar">
     <section class="navbar-section">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> | 
+      <router-link to="/login">Login</router-link>
     </section>
     <section class="navbar-center">
       
