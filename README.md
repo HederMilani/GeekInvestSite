@@ -9,6 +9,9 @@ Necessário realizar a instalaçãos dos seguintes componentes:
         > Vue
         > Quasar (vue add quasar)
         > Spectre CSS (yarn add spectre.css)
-        > Cors (npm install cors)
-        > Dotenv (npm install dotenv)
-        > Express (npm install xpress)
+        > Vue-Router (yarn add vue-router)
+        > Vuex (yarn add vuex)
+        > Vee-validate@2.2.15 (yarn add vee-validate@2.2.15)
+        > Axios (yarn add axios)
+        > Bootstrap (yarn add bootstrap jquery popper.js)
+        > Icons (yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome)

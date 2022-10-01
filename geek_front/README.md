@@ -1,4 +1,4 @@
-# geeksite
+# geek_front
 
 ## Project setup
 ```
